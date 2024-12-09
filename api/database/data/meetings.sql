@@ -1,0 +1,28 @@
+-- INSERT Meetings SQL (SQLite)
+INSERT INTO meetings (id, name, championship_id, circuit_id, round) VALUES
+    ('pretest_2024', 'Aramco Pre-Season Test 2024', 'f1_2024', 'bahrein', 0),
+    ('bahrein_2024', 'Gulf Air Bahrein Grand Prix 2024', 'f1_2024', 'bahrein', 1),
+    ('jeddah_2024', 'STC Saudi Arabian Grand Prix 2024', 'f1_2024', 'jeddah', 2),
+    ('australia_2024', 'Rolex Australian Grand Prix 2024', 'f1_2024', 'melbourne', 3),
+    ('japan_2024', 'MSC Cruises Japanese Grand Prix 2024', 'f1_2024', 'suzuka', 4),
+    ('china_2024', 'Lenovo Chinese Grand Prix 2024', 'f1_2024', 'shanghai', 5),
+    ('miami_2024', 'Crypto.com Miami Grand Prix 2024', 'f1_2024', 'miami', 6),
+    ('imola_2024', 'MSC Cruises Gran Premio Del Made in Italy E Dell''Emilia-Romaga 2024', 'f1_2024', 'imola', 7),
+    ('monaco_2024', 'Grand Prix de Monaco 2024', 'f1_2024', 'monaco', 8),
+    ('canada_2024', 'AWS Grand Prix du Canada 2024', 'f1_2024', 'montreal', 9),
+    ('spain_2024', 'Aramco Gran Premio de España 2024', 'f1_2024', 'catalunya', 10),
+    ('austria_2024', 'Qatar Airways Austrian Grand Prix 2024', 'f1_2024', 'austria', 11),
+    ('great_britain_2024', 'Qatar Airways British Grand Prix 2024', 'f1_2024', 'silverstonen', 12),
+    ('hungary_2024', 'Hungarian Grand Prix 2024', 'f1_2024', 'hungaroring', 13),
+    ('belgium_2024', 'Rolex Belgian Grand Prix 2024', 'f1_2024', 'spa', 14),
+    ('netherlands_2024', 'Heineken Dutch Grand Prix 2024', 'f1_2024', 'zandvoort', 15),
+    ('italy_2024', 'Pirelli Gran Premio d''Italia 2024', 'f1_2024', 'monza', 16),
+    ('azerbaijan_2024', 'Qatar Airways Azerbaijan 2024', 'f1_2024', 'baku', 17),
+    ('singapore_2024', 'Singapore Airlines Singapore Grand Prix 2024', 'f1_2024', 'singapore', 18),
+    ('united_states_2024', 'Pirelli United States Grand Prix 2024', 'f1_2024', 'austin', 19),
+    ('mexico_2024', 'Gran Premio de la Ciudad de México 2024', 'f1_2024', 'mexico', 20),
+    ('brazil_2024', 'Lenovo Grande Prêmio de São Paulo 2024', 'f1_2024', 'interlagos', 21),
+    ('las_vegas_2024', 'Heineken Silver Las vegas Grand Prix 2024', 'f1_2024', 'las_vegas', 22),
+    ('qatar_2024', 'Qatar Airways Qatar Grand Prix 2024', 'f1_2024', 'lusail', 23),
+    ('abu_dhabi_2024', 'Etihad Airways Abu Dhabi Grand Prix 2024', 'f1_2024', 'abu_dhabi', 24)
+    -- Season 2024 Done
