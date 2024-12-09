@@ -1,0 +1,509 @@
+@import url("https://fonts.googleapis.com/css2?family=Titillium+Web&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@font-face {
+    font-family: "F1";
+    src: url("../fonts/Formula1-Bold_web_0.ttf");
+}
+body, html {
+    font-family: "Poppins", sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    margin: 0;
+}
+
+:root {
+    --arrow-icon: url(https://upload.wikimedia.org/wikipedia/commons/9/9d/Caret_down_font_awesome_whitevariation.svg);
+    --arrow-bg: rgba(255, 255, 255, 0.3);
+    --select-bg: rgba(255, 255, 255, 0.2);
+
+    --mainColor: #0270c5;
+    --secColor: #025a9e;
+    --altColor: #00d374;
+    --hover-color: #38383f;
+
+    --default: grey;
+    --mercedes: #27F4D2;
+    --red-bull-racing: #3671C6;
+    --ferrari: #E8002D;
+    --mclaren: #FF8000;
+    --alpine: #FF87BC;
+    --racing-bull: #6692FF;
+    --aston-martin: #229971;
+    --williams: #64C4FF;
+    --kick-sauber: #52E252;
+    --haas: #B6BABD;
+    --alpha-tauri: #20394C;
+    --alfa-romeo: #A42134;
+}
+
+.title {
+    font-family: "F1", sans-serif;
+    margin-bottom: 10px;
+}
+
+.table-content {
+    margin: 5px 0;
+}
+
+.table-container {
+    width: 80%;
+    min-width: 400px;
+    margin: 0 10px;
+    padding: 5px;
+    border: 10px;
+}
+
+.table-container tr {
+    display: flex;
+    padding: 0;
+    border-radius: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    transition: 0.3s;
+    cursor: pointer;
+}
+
+.table-container tr.table-content {
+    justify-content: space-between;
+    padding: 0;
+}
+
+.table-container tr.table-content td {
+    margin: 0 20px 0 10px;
+    font-size: 1rem;
+    text-align: left;
+    padding: 10px;
+}
+
+.table-container tr.table-content td .position {
+    border-right: 5px solid var(--default);
+    padding-right: 10px;
+    font-size: 1rem;
+    font-weight: bold;
+    display: inline-block;
+    width: 20px;
+}
+
+.constructorStanding .position {
+    font-size: 1.5rem !important;
+}
+
+.table-container tr.table-content td .driver-name {
+    margin-left: 10px;
+}
+
+.table-container tr.table-content td .driver-surname {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+.table-container tr.table-content td .team {
+    font-size: 0.8rem;
+    color: #666;
+    text-align: left;
+}
+
+.table-container tr.table-content td .points {
+    background-color: #ccc;
+    border-radius: 50px;
+    font-size: 0.75rem;
+    padding: 0 10px;
+}
+
+.table-container tr.table-content td i {
+    margin-left: 20px;
+    color: #e10600;
+    font-size: 12px;
+}
+
+.table-container tr:hover {
+    background-color: var(--hover-color);
+    color: #ffffff;
+}
+
+.table-container tr .points {
+    color: black !important;
+}
+
+.team-red-bull-racing {
+    border-right: 5px solid var(--red-bull-racing) !important;
+}
+
+.team-mercedes {
+    border-right: 5px solid var(--mercedes) !important;
+}
+
+.team-ferrari {
+    border-right: 5px solid var(--ferrari) !important;
+}
+
+.team-mclaren {
+    border-right: 5px solid var(--mclaren) !important;
+}
+
+.team-alpine {
+    border-right: 5px solid var(--alpine) !important;
+}
+
+.team-racing-bull {
+    border-right: 5px solid var(--racing-bull) !important;
+}
+
+.team-aston-martin {
+    border-right: 5px solid var(--aston-martin) !important;
+}
+
+.team-williams {
+    border-right: 5px solid var(--williams) !important;
+}
+
+.team-kick-sauber {
+    border-right: 5px solid var(--kick-sauber) !important;
+}
+
+.team-haas {
+    border-right: 5px solid var(--haas) !important;
+}
+
+.team-alpha-tauri {
+    border-right: 5px solid var(--alpha-tauri) !important;
+}
+
+.team-alfa-romeo {
+    border-right: 5px solid var(--alfa-romeo) !important;
+}
+
+.position-more-10 {
+    margin-left: 1px !important;
+}
+
+/* FLAGS */
+.fi {
+    margin-left: 20px;
+    margin-right: -5px;
+    border-radius: 2px;
+}
+
+.driverInfo {
+    width: 40%;
+}
+
+.constructorInfo {
+    width: 65%;
+    font-size: 1.25rem !important;
+}
+
+.teamInfo {
+    width: 30%
+}
+
+.victoryInfo {
+    width: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.pointsInfo {
+    width: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.poleInfo {
+    width: 10%;
+    display: flex;
+    align-items: center;
+}
+
+.navBar {
+    width: 100%;
+    background-color: var(--mainColor);
+    color: white;
+    display: flex;
+}
+
+.websiteName {
+    width: 30%;
+    text-align: center;
+    color: var(--altColor);
+    align-content: center;
+}
+
+.currentPage {
+    color: var(--altColor) !important;
+}
+
+.pages:hover {
+    color: #ffb700;
+    cursor: pointer;
+}
+
+.pages {
+    color: white;
+    text-decoration: none;
+}
+
+.nextRace {
+    width: 100%;
+    background-color: var(--mainColor);
+    color: white;
+    padding: 0.5em 0 10px 50px;
+}
+
+.welcomeBanner {
+    background-color: #025a9e;
+    color: white;
+    padding: 3em 1em 3em 50px;
+}
+
+.raceName {
+    margin-left: 10px
+}
+
+.columns {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media screen and (min-width: 1290px) {
+    .columns {
+        grid-template-columns: 3fr 2fr;
+        display: grid;
+    }
+}
+
+.columnTitle {
+    display: inline-block;
+    background-color: #025a9e;
+    font-style: italic;
+    margin-left: 12px;
+    padding: 10px 20px 10px 20px;
+    border-radius: 5px;
+}
+
+.previousRace {
+    background-color: #ffffff;
+    padding: 0.5em 50px 10px 50px;
+    border-radius: 5px;
+    text-align: center;
+    margin-right: 20%;
+}
+
+.date-time{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+
+.dateTimeIcon{
+    height: 1em;
+    color: var(--mainColor);
+}
+
+.lastRaceResult {
+    text-align: left;
+    width: 100%;
+}
+
+.lastRaceResult .fi {
+    margin: 0;
+}
+
+.lastRaceTime {
+    text-align: right !important;
+    color: #9a9a9a;
+    font-weight: 200;
+}
+
+.standing {
+    width: 80%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.standingLink {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    background-color: var(--mainColor);
+    display: inline-block;
+    align-content: center;
+    text-align: center;
+    width: 120px;
+    border-radius: 5px;
+    margin-top: 1.5em;
+    margin-bottom: 10px;
+    transition: 0.3s;
+}
+
+.standingLink:hover {
+    background-color: #025a9e;
+    color: white;
+}
+
+.summaryTitle {
+    margin-bottom: -10px;
+    margin-top: -10px;
+}
+
+.navChoices {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 50px;
+    width: 70%;
+}
+
+.footer {
+    background-color: var(--mainColor);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    bottom: 0;
+}
+
+.pastSeasonTable {
+    width: 60%;
+    margin: 10px auto;
+    border-collapse: separate;
+    border-spacing: 0 10px;
+}
+
+.pastSeasonTable tr {
+    width: 100%;
+    background-color: white;
+    height: 40px;
+    transition: 0.3s;
+}
+
+.pastSeasonTable tr:hover {
+    background-color: #676767;
+    color: white
+}
+
+.pastSeasonTable td {
+    padding: 10px
+}
+
+.pastSeasonTable th {
+    padding-right: 40px;
+    padding-left: 10px;
+    min-width: 15%;
+    white-space: nowrap;
+    text-align: left !important;
+}
+
+.standingsContainer .table-container {
+    margin: auto;
+}
+
+.standingTitle {
+    text-align: center;
+}
+
+.previousButton svg, .nextButton svg{
+    width: 20px;
+}
+
+.previousButton, .nextButton {
+    display: flex;
+    margin: 0 10px;
+    cursor: pointer;
+    background-color: var(--mainColor);
+    width: 50px;
+    text-align: center;
+    transition: 0.3s;
+    justify-content: center;
+    border-radius: 5px;
+}
+
+.previousButton:hover, .nextButton:hover {
+    background-color: #025a9e;
+}
+
+.disabled {
+    background-color: #9a9a9a !important;
+    cursor: not-allowed;
+}
+
+.standingsHeader {
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.standingsContainer {
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+}
+
+.slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+    width: 200%;
+}
+
+.driverChampionship, .constructorChampionship {
+    width: 100%;
+}
+
+.constructorStanding {
+
+}
+
+.standingsContainer th {
+    text-align: left;
+    padding: 10px;
+    margin: 0 20px 0 10px;
+}
+
+.selectSeasonStanding {
+    width: 100%;
+    text-align: center;
+    border-radius: 5px;
+}
+
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border: 0;
+    outline: 0;
+    font: inherit;
+
+    width: 20rem;
+    padding: 1rem 4rem 1rem 1rem;
+    background: var(--arrow-icon) no-repeat right 0.8em center/1.4em, linear-gradient(to left, var(--arrow-bg) 3em, var(--select-bg) 3em);
+    color: white;
+    border-radius: 0.25em;
+    box-shadow: 0 0 1em 0 rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+select:focus {
+    outline: none;
+}
+
+select option {
+    color: inherit;
+    background-color: white;
+}
+
+.selectDivSeasonStanding {
+    background: linear-gradient(to left, var(--mainColor), var(--altColor));
+    border-radius: 5px;
+}

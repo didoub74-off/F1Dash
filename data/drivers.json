@@ -1,0 +1,1938 @@
+{
+  "max_verstappen": {
+    "driverId": "max_verstappen",
+    "driverName": "Max",
+    "driverSurname": "Verstappen",
+    "driverNationality": "Netherlands",
+    "driverBirthdate": "30\/09\/1997",
+    "driverNumber": 33,
+    "driverCode": "VER",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 24,
+        "fp2": 18,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "poles": {
+          "total": 39,
+          "2021": 8,
+          "2022": 8,
+          "2023": 13,
+          "2024": 10
+        },
+        "positions": {
+          "1": 53,
+          "2": 16,
+          "3": 2,
+          "4": 1,
+          "5": 5,
+          "6": 5,
+          "7": 2,
+          "9": 1,
+          "18": 3,
+          "19": 2,
+          "20": 1
+        },
+        "podiums": {
+          "total": 71,
+          "2021": 18,
+          "2022": 17,
+          "2023": 21,
+          "2024": 15
+        },
+        "wins": {
+          "total": 53,
+          "2021": 10,
+          "2022": 15,
+          "2023": 19,
+          "2024": 9
+        }
+      },
+      "points": {
+        "total": 1780.5,
+        "2021": 388.5,
+        "2022": 433,
+        "2023": 530,
+        "2024": 429
+      },
+      "sprint": {
+        "wins": {
+          "total": 4,
+          "2024": 4
+        },
+        "podiums": {
+          "total": 4,
+          "2024": 4
+        },
+        "positions": {
+          "1": 4,
+          "4": 1,
+          "8": 1
+        },
+        "poles": {
+          "total": 3,
+          "2024": 3
+        }
+      }
+    }
+  },
+  "hamilton": {
+    "driverId": "hamilton",
+    "driverName": "Lewis",
+    "driverSurname": "Hamilton",
+    "driverNationality": "Great Britain",
+    "driverBirthdate": "07\/01\/1985",
+    "driverNumber": 44,
+    "driverCode": "HAM",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 23,
+        "fp2": 19,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "wins": {
+          "total": 11,
+          "2021": 8,
+          "2024": 3
+        },
+        "positions": {
+          "1": 11,
+          "2": 17,
+          "3": 10,
+          "4": 11,
+          "5": 8,
+          "6": 8,
+          "7": 4,
+          "8": 4,
+          "9": 6,
+          "10": 2,
+          "12": 1,
+          "13": 1,
+          "15": 1,
+          "17": 1,
+          "18": 2,
+          "19": 2,
+          "20": 1,
+          "NC": 1
+        },
+        "podiums": {
+          "total": 38,
+          "2021": 17,
+          "2022": 9,
+          "2023": 6,
+          "2024": 6
+        },
+        "poles": {
+          "total": 9,
+          "2021": 8,
+          "2023": 1
+        }
+      },
+      "points": {
+        "total": 1082.5,
+        "2021": 385.5,
+        "2022": 233,
+        "2023": 217,
+        "2024": 247
+      },
+      "sprint": {
+        "podiums": {
+          "total": 1,
+          "2024": 1
+        },
+        "positions": {
+          "2": 1,
+          "6": 3,
+          "11": 1,
+          "16": 1
+        }
+      }
+    }
+  },
+  "bottas": {
+    "driverId": "bottas",
+    "driverName": "Valtteri",
+    "driverSurname": "Bottas",
+    "driverNationality": "Finland",
+    "driverBirthdate": "28\/08\/1989",
+    "driverNumber": 77,
+    "driverCode": "BOT",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 24,
+        "fp2": 19,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 1,
+          "2": 1,
+          "3": 9,
+          "4": 1,
+          "5": 2,
+          "6": 4,
+          "7": 2,
+          "8": 3,
+          "9": 2,
+          "10": 3,
+          "11": 6,
+          "12": 6,
+          "13": 5,
+          "14": 5,
+          "15": 9,
+          "16": 9,
+          "17": 5,
+          "18": 5,
+          "19": 8,
+          "20": 4,
+          "NC": 1
+        },
+        "podiums": {
+          "total": 11,
+          "2021": 11
+        },
+        "poles": {
+          "total": 3,
+          "2021": 3
+        },
+        "wins": {
+          "total": 1,
+          "2021": 1
+        }
+      },
+      "points": {
+        "total": 276,
+        "2021": 219,
+        "2022": 47,
+        "2023": 10,
+        "2024": 0
+      },
+      "sprint": {
+        "positions": {
+          "12": 2,
+          "14": 1,
+          "16": 1,
+          "19": 1,
+          "20": 1
+        }
+      }
+    }
+  },
+  "leclerc": {
+    "driverId": "leclerc",
+    "driverName": "Charles",
+    "driverSurname": "Leclerc",
+    "driverNationality": "Monaco",
+    "driverBirthdate": "16\/10\/1997",
+    "driverNumber": 16,
+    "driverCode": "LEC",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 25,
+        "fp2": 19,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 6,
+          "2": 12,
+          "3": 13,
+          "4": 18,
+          "5": 8,
+          "6": 7,
+          "7": 5,
+          "8": 3,
+          "9": 1,
+          "10": 1,
+          "11": 2,
+          "14": 2,
+          "15": 1,
+          "16": 1,
+          "18": 1,
+          "19": 5,
+          "20": 5
+        },
+        "poles": {
+          "total": 17,
+          "2021": 2,
+          "2022": 9,
+          "2023": 4,
+          "2024": 2
+        },
+        "podiums": {
+          "total": 31,
+          "2021": 1,
+          "2022": 11,
+          "2023": 6,
+          "2024": 13
+        },
+        "wins": {
+          "total": 6,
+          "2022": 3,
+          "2024": 3
+        }
+      },
+      "points": {
+        "total": 981,
+        "2021": 159,
+        "2022": 291,
+        "2023": 185,
+        "2024": 346
+      },
+      "sprint": {
+        "positions": {
+          "2": 1,
+          "3": 1,
+          "4": 2,
+          "5": 1,
+          "7": 1
+        },
+        "podiums": {
+          "total": 2,
+          "2024": 2
+        }
+      }
+    }
+  },
+  "gasly": {
+    "driverId": "gasly",
+    "driverName": "Pierre",
+    "driverSurname": "Gasly",
+    "driverNationality": "France",
+    "driverBirthdate": "07\/02\/1996",
+    "driverNumber": 10,
+    "driverCode": "GAS",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 23,
+        "fp2": 18,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "3": 3,
+          "4": 2,
+          "5": 4,
+          "6": 6,
+          "7": 6,
+          "8": 3,
+          "9": 8,
+          "10": 9,
+          "11": 8,
+          "12": 8,
+          "13": 7,
+          "14": 5,
+          "15": 3,
+          "16": 3,
+          "17": 2,
+          "18": 4,
+          "19": 1,
+          "20": 6,
+          "NC": 3
+        },
+        "podiums": {
+          "total": 3,
+          "2021": 1,
+          "2023": 1,
+          "2024": 1
+        }
+      },
+      "points": {
+        "total": 214,
+        "2021": 110,
+        "2022": 23,
+        "2023": 54,
+        "2024": 27
+      },
+      "sprint": {
+        "positions": {
+          "7": 1,
+          "9": 2,
+          "12": 1,
+          "14": 1,
+          "15": 1
+        }
+      }
+    }
+  },
+  "ricciardo": {
+    "driverId": "ricciardo",
+    "driverName": "Daniel",
+    "driverSurname": "Ricciardo",
+    "driverNationality": "Australia",
+    "driverBirthdate": "01\/07\/1989",
+    "driverNumber": 3,
+    "driverCode": "RIC",
+    "stats": {
+      "appearances": {
+        "qualy": 70,
+        "race": 70,
+        "fp1": 18,
+        "fp2": 16,
+        "fp3": 16,
+        "sprintQualy": 3,
+        "sprint": 3
+      },
+      "race": {
+        "positions": {
+          "1": 1,
+          "4": 2,
+          "5": 4,
+          "6": 4,
+          "7": 4,
+          "8": 2,
+          "9": 6,
+          "10": 1,
+          "11": 5,
+          "12": 9,
+          "13": 13,
+          "14": 2,
+          "15": 5,
+          "16": 3,
+          "17": 3,
+          "18": 3,
+          "19": 2,
+          "20": 1
+        },
+        "wins": {
+          "total": 1,
+          "2021": 1
+        },
+        "podiums": {
+          "total": 1,
+          "2021": 1
+        }
+      },
+      "points": {
+        "total": 166,
+        "2021": 114,
+        "2022": 34,
+        "2023": 6,
+        "2024": 12
+      },
+      "sprint": {
+        "positions": {
+          "4": 1,
+          "11": 1,
+          "15": 1
+        }
+      }
+    }
+  },
+  "norris": {
+    "driverId": "norris",
+    "driverName": "Lando",
+    "driverSurname": "Norris",
+    "driverNationality": "Great Britain",
+    "driverBirthdate": "13\/11\/1999",
+    "driverNumber": 4,
+    "driverCode": "NOR",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 24,
+        "fp2": 19,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 4,
+          "2": 13,
+          "3": 9,
+          "4": 7,
+          "5": 9,
+          "6": 8,
+          "7": 11,
+          "8": 5,
+          "9": 5,
+          "10": 6,
+          "12": 1,
+          "13": 1,
+          "14": 1,
+          "15": 3,
+          "17": 4,
+          "18": 1,
+          "19": 1,
+          "20": 2
+        },
+        "podiums": {
+          "total": 26,
+          "2021": 4,
+          "2022": 1,
+          "2023": 7,
+          "2024": 14
+        },
+        "poles": {
+          "total": 9,
+          "2021": 1,
+          "2024": 8
+        },
+        "wins": {
+          "total": 4,
+          "2024": 4
+        }
+      },
+      "points": {
+        "total": 841,
+        "2021": 160,
+        "2022": 116,
+        "2023": 184,
+        "2024": 381
+      },
+      "sprint": {
+        "poles": {
+          "total": 2,
+          "2024": 2
+        },
+        "positions": {
+          "1": 1,
+          "2": 1,
+          "3": 2,
+          "6": 1,
+          "20": 1
+        },
+        "podiums": {
+          "total": 4,
+          "2024": 4
+        },
+        "wins": {
+          "total": 1,
+          "2024": 1
+        }
+      }
+    }
+  },
+  "sainz": {
+    "driverId": "sainz",
+    "driverName": "Carlos",
+    "driverSurname": "Sainz",
+    "driverNationality": "Spain",
+    "driverBirthdate": "01\/09\/1994",
+    "driverNumber": 55,
+    "driverCode": "SAI",
+    "stats": {
+      "appearances": {
+        "qualy": 90,
+        "race": 90,
+        "fp1": 24,
+        "fp2": 19,
+        "fp3": 18,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 4,
+          "2": 6,
+          "3": 15,
+          "4": 7,
+          "5": 15,
+          "6": 14,
+          "7": 5,
+          "8": 7,
+          "10": 2,
+          "11": 2,
+          "12": 1,
+          "16": 1,
+          "18": 3,
+          "19": 2,
+          "20": 5,
+          "NC": 1
+        },
+        "podiums": {
+          "total": 25,
+          "2021": 4,
+          "2022": 9,
+          "2023": 3,
+          "2024": 9
+        },
+        "poles": {
+          "total": 5,
+          "2022": 2,
+          "2023": 2,
+          "2024": 1
+        },
+        "wins": {
+          "total": 4,
+          "2022": 1,
+          "2023": 1,
+          "2024": 2
+        }
+      },
+      "points": {
+        "total": 870.5,
+        "2021": 163.5,
+        "2022": 228,
+        "2023": 178,
+        "2024": 301
+      },
+      "sprint": {
+        "positions": {
+          "2": 1,
+          "4": 1,
+          "5": 4
+        },
+        "podiums": {
+          "total": 1,
+          "2024": 1
+        }
+      }
+    }
+  },
+  "alonso": {
+    "driverId": "alonso",
+    "driverName": "Fernando",
+    "driverSurname": "Alonso",
+    "driverNationality": "Spain",
+    "driverBirthdate": "29\/07\/1981",
+    "driverNumber": 14,
+    "driverCode": "ALO",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 24,
+        "fp2": 18,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "2": 3,
+          "3": 6,
+          "4": 2,
+          "5": 6,
+          "6": 9,
+          "7": 10,
+          "8": 11,
+          "9": 12,
+          "10": 4,
+          "11": 6,
+          "12": 1,
+          "13": 3,
+          "14": 1,
+          "15": 1,
+          "16": 3,
+          "17": 2,
+          "18": 4,
+          "19": 5,
+          "20": 1,
+          "NC": 1
+        },
+        "podiums": {
+          "total": 9,
+          "2021": 1,
+          "2023": 8
+        }
+      },
+      "points": {
+        "total": 434,
+        "2021": 81,
+        "2022": 81,
+        "2023": 198,
+        "2024": 74
+      },
+      "sprint": {
+        "positions": {
+          "11": 1,
+          "16": 1,
+          "17": 1,
+          "18": 2,
+          "20": 1
+        }
+      }
+    }
+  },
+  "stroll": {
+    "driverId": "stroll",
+    "driverName": "Lance",
+    "driverSurname": "Stroll",
+    "driverNationality": "Canada",
+    "driverBirthdate": "29\/10\/1998",
+    "driverNumber": 18,
+    "driverCode": "STR",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 24,
+        "fp2": 18,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "4": 1,
+          "5": 2,
+          "6": 5,
+          "7": 6,
+          "8": 5,
+          "9": 5,
+          "10": 12,
+          "11": 10,
+          "12": 7,
+          "13": 6,
+          "14": 8,
+          "15": 5,
+          "16": 2,
+          "17": 2,
+          "18": 3,
+          "19": 5,
+          "20": 5,
+          "NC": 2
+        }
+      },
+      "points": {
+        "total": 150,
+        "2021": 34,
+        "2022": 18,
+        "2023": 68,
+        "2024": 30
+      },
+      "sprint": {
+        "positions": {
+          "10": 1,
+          "13": 2,
+          "14": 1,
+          "19": 2
+        }
+      }
+    }
+  },
+  "perez": {
+    "driverId": "perez",
+    "driverName": "Sergio",
+    "driverSurname": "P\u00e9rez",
+    "driverNationality": "Mexico",
+    "driverBirthdate": "26\/01\/1990",
+    "driverNumber": 11,
+    "driverCode": "PER",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 23,
+        "fp2": 18,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 5,
+          "2": 14,
+          "3": 10,
+          "4": 15,
+          "5": 7,
+          "6": 5,
+          "7": 5,
+          "8": 5,
+          "9": 1,
+          "10": 3,
+          "11": 2,
+          "15": 1,
+          "16": 2,
+          "17": 6,
+          "18": 3,
+          "19": 2,
+          "20": 3,
+          "NC": 2
+        },
+        "wins": {
+          "total": 5,
+          "2021": 1,
+          "2022": 2,
+          "2023": 2
+        },
+        "podiums": {
+          "total": 29,
+          "2021": 5,
+          "2022": 11,
+          "2023": 9,
+          "2024": 4
+        },
+        "poles": {
+          "total": 3,
+          "2022": 1,
+          "2023": 2
+        }
+      },
+      "points": {
+        "total": 893,
+        "2021": 190,
+        "2022": 291,
+        "2023": 260,
+        "2024": 152
+      },
+      "sprint": {
+        "podiums": {
+          "total": 2,
+          "2024": 2
+        },
+        "positions": {
+          "3": 2,
+          "8": 2,
+          "9": 1,
+          "20": 1
+        }
+      }
+    }
+  },
+  "giovinazzi": {
+    "driverId": "giovinazzi",
+    "driverName": "Antonio",
+    "driverSurname": "Giovinazzi",
+    "driverNationality": "Italian",
+    "driverBirthdate": "1993-12-14",
+    "driverNumber": 99,
+    "driverCode": "GIO",
+    "stats": {
+      "appearances": {
+        "qualy": 22,
+        "race": 22
+      },
+      "race": {
+        "positions": {
+          "9": 1,
+          "10": 1,
+          "11": 4,
+          "12": 2,
+          "13": 4,
+          "14": 4,
+          "15": 4,
+          "16": 1,
+          "17": 1
+        }
+      },
+      "points": {
+        "total": 3,
+        "2021": 3
+      }
+    }
+  },
+  "tsunoda": {
+    "driverId": "tsunoda",
+    "driverName": "Yuki",
+    "driverSurname": "Tsunoda",
+    "driverNationality": "Japan",
+    "driverBirthdate": "11\/05\/2000",
+    "driverNumber": 22,
+    "driverCode": "TSU",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 24,
+        "fp2": 19,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "4": 1,
+          "6": 1,
+          "7": 4,
+          "8": 5,
+          "9": 5,
+          "10": 11,
+          "11": 4,
+          "12": 8,
+          "13": 6,
+          "14": 9,
+          "15": 10,
+          "16": 4,
+          "17": 4,
+          "18": 2,
+          "19": 7,
+          "20": 7,
+          "NC": 3
+        }
+      },
+      "points": {
+        "total": 83,
+        "2021": 32,
+        "2022": 12,
+        "2023": 14,
+        "2024": 25
+      },
+      "sprint": {
+        "positions": {
+          "8": 1,
+          "11": 1,
+          "13": 1,
+          "15": 1,
+          "16": 1,
+          "17": 1
+        }
+      }
+    }
+  },
+  "raikkonen": {
+    "driverId": "raikkonen",
+    "driverName": "Kimi",
+    "driverSurname": "R\u00e4ikk\u00f6nen",
+    "driverNationality": "Finnish",
+    "driverBirthdate": "1979-10-17",
+    "driverNumber": 7,
+    "driverCode": "RAI",
+    "stats": {
+      "appearances": {
+        "qualy": 20,
+        "race": 20
+      },
+      "race": {
+        "positions": {
+          "8": 2,
+          "10": 2,
+          "11": 3,
+          "12": 3,
+          "13": 2,
+          "14": 1,
+          "15": 3,
+          "17": 1,
+          "18": 1,
+          "19": 1,
+          "20": 1
+        }
+      },
+      "points": {
+        "total": 10,
+        "2021": 10
+      }
+    }
+  },
+  "russell": {
+    "driverId": "russell",
+    "driverName": "George",
+    "driverSurname": "Russell",
+    "driverNationality": "Great Britain",
+    "driverBirthdate": "15\/02\/1998",
+    "driverNumber": 63,
+    "driverCode": "RUS",
+    "stats": {
+      "appearances": {
+        "qualy": 91,
+        "race": 91,
+        "fp1": 24,
+        "fp2": 18,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 3,
+          "2": 2,
+          "3": 10,
+          "4": 13,
+          "5": 13,
+          "6": 6,
+          "7": 7,
+          "8": 6,
+          "9": 1,
+          "10": 1,
+          "11": 1,
+          "12": 2,
+          "13": 1,
+          "14": 5,
+          "15": 2,
+          "16": 3,
+          "17": 5,
+          "18": 3,
+          "19": 5,
+          "NC": 2
+        },
+        "podiums": {
+          "total": 15,
+          "2021": 1,
+          "2022": 8,
+          "2023": 2,
+          "2024": 4
+        },
+        "poles": {
+          "total": 5,
+          "2022": 1,
+          "2024": 4
+        },
+        "wins": {
+          "total": 3,
+          "2022": 1,
+          "2024": 2
+        }
+      },
+      "points": {
+        "total": 668,
+        "2021": 16,
+        "2022": 262,
+        "2023": 157,
+        "2024": 233
+      },
+      "sprint": {
+        "positions": {
+          "3": 1,
+          "4": 1,
+          "5": 1,
+          "6": 1,
+          "8": 1,
+          "12": 1
+        },
+        "podiums": {
+          "total": 1,
+          "2024": 1
+        }
+      }
+    }
+  },
+  "ocon": {
+    "driverId": "ocon",
+    "driverName": "Esteban",
+    "driverSurname": "Ocon",
+    "driverNationality": "France",
+    "driverBirthdate": "17\/09\/1996",
+    "driverNumber": 31,
+    "driverCode": "OCO",
+    "stats": {
+      "appearances": {
+        "qualy": 90,
+        "race": 90,
+        "fp1": 23,
+        "fp2": 18,
+        "fp3": 18,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 1,
+          "2": 1,
+          "3": 1,
+          "4": 3,
+          "5": 2,
+          "6": 2,
+          "7": 8,
+          "8": 9,
+          "9": 11,
+          "10": 9,
+          "11": 3,
+          "12": 3,
+          "13": 5,
+          "14": 8,
+          "15": 5,
+          "16": 4,
+          "17": 3,
+          "18": 5,
+          "19": 3,
+          "20": 3,
+          "NC": 1
+        },
+        "wins": {
+          "total": 1,
+          "2021": 1
+        },
+        "podiums": {
+          "total": 3,
+          "2021": 1,
+          "2023": 1,
+          "2024": 1
+        }
+      },
+      "points": {
+        "total": 224,
+        "2021": 74,
+        "2022": 89,
+        "2023": 56,
+        "2024": 5
+      },
+      "sprint": {
+        "positions": {
+          "11": 1,
+          "13": 2,
+          "14": 1,
+          "15": 2
+        }
+      }
+    }
+  },
+  "latifi": {
+    "driverId": "latifi",
+    "driverName": "Nicholas",
+    "driverSurname": "Latifi",
+    "driverNationality": "Canadian",
+    "driverBirthdate": "1995-06-29",
+    "driverNumber": 6,
+    "driverCode": "LAT",
+    "stats": {
+      "appearances": {
+        "qualy": 44,
+        "race": 44
+      },
+      "race": {
+        "positions": {
+          "7": 1,
+          "9": 2,
+          "11": 1,
+          "12": 2,
+          "14": 2,
+          "15": 5,
+          "16": 12,
+          "17": 5,
+          "18": 8,
+          "19": 5,
+          "20": 1
+        }
+      },
+      "points": {
+        "total": 9,
+        "2021": 7,
+        "2022": 2
+      }
+    }
+  },
+  "vettel": {
+    "driverId": "vettel",
+    "driverName": "Sebastian",
+    "driverSurname": "Vettel",
+    "driverNationality": "Germany",
+    "driverBirthdate": "03\/07\/1987",
+    "driverNumber": 5,
+    "driverCode": "VET",
+    "stats": {
+      "appearances": {
+        "qualy": 42,
+        "race": 42
+      },
+      "race": {
+        "positions": {
+          "2": 1,
+          "5": 2,
+          "6": 2,
+          "7": 1,
+          "8": 4,
+          "9": 2,
+          "10": 5,
+          "11": 5,
+          "12": 4,
+          "13": 3,
+          "14": 2,
+          "15": 2,
+          "16": 1,
+          "17": 3,
+          "18": 1,
+          "19": 2,
+          "20": 2
+        },
+        "podiums": {
+          "total": 1,
+          "2021": 1
+        }
+      },
+      "points": {
+        "total": 80,
+        "2021": 43,
+        "2022": 37
+      }
+    }
+  },
+  "mick_schumacher": {
+    "driverId": "mick_schumacher",
+    "driverName": "Mick",
+    "driverSurname": "Schumacher",
+    "driverNationality": "German",
+    "driverBirthdate": "1999-03-22",
+    "driverNumber": 47,
+    "driverCode": "MSC",
+    "stats": {
+      "appearances": {
+        "qualy": 43,
+        "race": 44
+      },
+      "race": {
+        "positions": {
+          "6": 1,
+          "8": 1,
+          "11": 1,
+          "12": 2,
+          "13": 5,
+          "14": 4,
+          "15": 4,
+          "16": 8,
+          "17": 4,
+          "18": 6,
+          "19": 5,
+          "20": 3
+        }
+      },
+      "points": {
+        "total": 12,
+        "2021": 0,
+        "2022": 12
+      }
+    }
+  },
+  "mazepin": {
+    "driverId": "mazepin",
+    "driverName": "Nikita",
+    "driverSurname": "Mazepin",
+    "driverNationality": "Russian",
+    "driverBirthdate": "1999-03-02",
+    "driverNumber": 9,
+    "driverCode": "MAZ",
+    "stats": {
+      "appearances": {
+        "qualy": 22,
+        "race": 22
+      },
+      "race": {
+        "positions": {
+          "14": 2,
+          "16": 1,
+          "17": 6,
+          "18": 5,
+          "19": 3,
+          "20": 5
+        }
+      },
+      "points": {
+        "total": 0,
+        "2021": 0
+      }
+    }
+  },
+  "kubica": {
+    "driverId": "kubica",
+    "driverName": "Robert",
+    "driverSurname": "Kubica",
+    "driverNationality": "Polish",
+    "driverBirthdate": "1984-12-07",
+    "driverNumber": 88,
+    "driverCode": "KUB",
+    "stats": {
+      "appearances": {
+        "qualy": 2,
+        "race": 2
+      },
+      "race": {
+        "positions": {
+          "14": 1,
+          "15": 1
+        }
+      },
+      "points": {
+        "total": 0,
+        "2021": 0
+      }
+    }
+  },
+  "kevin_magnussen": {
+    "driverId": "kevin_magnussen",
+    "driverName": "Kevin",
+    "driverSurname": "Magnussen",
+    "driverNationality": "Danish",
+    "driverBirthdate": "1992-10-05",
+    "driverNumber": 20,
+    "driverCode": "MAG",
+    "stats": {
+      "appearances": {
+        "qualy": 54,
+        "race": 67,
+        "fp1": 20,
+        "fp2": 8,
+        "fp3": 8,
+        "sprintQualy": 2,
+        "sprint": 2
+      },
+      "race": {
+        "positions": {
+          "5": 1,
+          "7": 1,
+          "8": 2,
+          "9": 4,
+          "10": 6,
+          "11": 1,
+          "12": 8,
+          "13": 4,
+          "14": 5,
+          "15": 4,
+          "16": 7,
+          "17": 9,
+          "18": 6,
+          "19": 6,
+          "20": 3
+        },
+        "poles": {
+          "total": 1,
+          "2022": 1
+        }
+      },
+      "points": {
+        "total": 40,
+        "2022": 21,
+        "2023": 3,
+        "2024": 16
+      },
+      "sprint": {
+        "positions": {
+          "7": 1,
+          "10": 1
+        }
+      }
+    }
+  },
+  "albon": {
+    "driverId": "albon",
+    "driverName": "Alex",
+    "driverSurname": "Albon",
+    "driverNationality": "Thailand",
+    "driverBirthdate": "23\/03\/1996",
+    "driverNumber": 23,
+    "driverCode": "ALB",
+    "stats": {
+      "appearances": {
+        "qualy": 68,
+        "race": 68,
+        "fp1": 24,
+        "fp2": 18,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "7": 3,
+          "8": 2,
+          "9": 7,
+          "10": 3,
+          "11": 7,
+          "12": 8,
+          "13": 6,
+          "14": 7,
+          "15": 4,
+          "16": 3,
+          "17": 3,
+          "18": 4,
+          "19": 3,
+          "20": 4,
+          "NC": 4
+        }
+      },
+      "points": {
+        "total": 43,
+        "2022": 4,
+        "2023": 25,
+        "2024": 14
+      },
+      "sprint": {
+        "positions": {
+          "10": 1,
+          "13": 1,
+          "15": 1,
+          "17": 2,
+          "18": 1
+        }
+      }
+    }
+  },
+  "zhou": {
+    "driverId": "zhou",
+    "driverName": "Guanyu",
+    "driverSurname": "Zhou",
+    "driverNationality": "Chinese",
+    "driverBirthdate": "1999-05-30",
+    "driverNumber": 24,
+    "driverCode": "ZHO",
+    "stats": {
+      "appearances": {
+        "qualy": 56,
+        "race": 69,
+        "fp1": 11,
+        "fp2": 9,
+        "fp3": 9,
+        "sprintQualy": 3,
+        "sprint": 3
+      },
+      "race": {
+        "positions": {
+          "8": 2,
+          "9": 3,
+          "10": 2,
+          "11": 3,
+          "12": 5,
+          "13": 10,
+          "14": 7,
+          "15": 9,
+          "16": 9,
+          "17": 3,
+          "18": 7,
+          "19": 5,
+          "20": 4
+        }
+      },
+      "points": {
+        "total": 16,
+        "2022": 6,
+        "2023": 6,
+        "2024": 4
+      },
+      "sprint": {
+        "positions": {
+          "17": 1,
+          "19": 2
+        }
+      }
+    }
+  },
+  "hulkenberg": {
+    "driverId": "hulkenberg",
+    "driverName": "Nico",
+    "driverSurname": "Hulkenberg",
+    "driverNationality": "Germany",
+    "driverBirthdate": "19\/08\/1987",
+    "driverNumber": 27,
+    "driverCode": "HUL",
+    "stats": {
+      "appearances": {
+        "qualy": 49,
+        "race": 49,
+        "fp1": 23,
+        "fp2": 19,
+        "fp3": 19,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "6": 3,
+          "7": 1,
+          "8": 3,
+          "9": 3,
+          "10": 2,
+          "11": 8,
+          "12": 4,
+          "13": 4,
+          "14": 2,
+          "15": 5,
+          "16": 2,
+          "17": 5,
+          "18": 2,
+          "19": 2,
+          "20": 1,
+          "NC": 2
+        }
+      },
+      "points": {
+        "total": 55,
+        "2022": 0,
+        "2023": 6,
+        "2024": 49
+      },
+      "sprint": {
+        "positions": {
+          "7": 2,
+          "8": 1,
+          "14": 1,
+          "19": 1,
+          "20": 1
+        }
+      }
+    }
+  },
+  "de_vries": {
+    "driverId": "de_vries",
+    "driverName": "Nyck",
+    "driverSurname": "de Vries",
+    "driverNationality": "Dutch",
+    "driverBirthdate": "1995-02-06",
+    "driverNumber": 21,
+    "driverCode": "DEV",
+    "stats": {
+      "appearances": {
+        "qualy": 11,
+        "race": 11
+      },
+      "race": {
+        "positions": {
+          "9": 1,
+          "12": 1,
+          "14": 3,
+          "15": 1,
+          "17": 2,
+          "18": 2,
+          "20": 1
+        }
+      },
+      "points": {
+        "total": 2,
+        "2022": 2,
+        "2023": 0
+      }
+    }
+  },
+  "sargeant": {
+    "driverId": "sargeant",
+    "driverName": "Logan",
+    "driverSurname": "Sargeant",
+    "driverNationality": "United States",
+    "driverBirthdate": "31\/12\/2000",
+    "driverNumber": 2,
+    "driverCode": "SAR",
+    "stats": {
+      "appearances": {
+        "qualy": 37,
+        "race": 37,
+        "fp1": 14,
+        "fp2": 12,
+        "fp3": 11,
+        "sprintQualy": 3,
+        "sprint": 3
+      },
+      "race": {
+        "positions": {
+          "10": 1,
+          "11": 4,
+          "12": 1,
+          "13": 2,
+          "14": 2,
+          "15": 1,
+          "16": 7,
+          "17": 7,
+          "18": 3,
+          "19": 1,
+          "20": 8
+        }
+      },
+      "points": {
+        "total": 1,
+        "2023": 1,
+        "2024": 0
+      },
+      "sprint": {
+        "positions": {
+          "10": 1,
+          "17": 1,
+          "18": 1
+        }
+      }
+    }
+  },
+  "piastri": {
+    "driverId": "piastri",
+    "driverName": "Oscar",
+    "driverSurname": "Piastri",
+    "driverNationality": "Australia",
+    "driverBirthdate": "06\/04\/2001",
+    "driverNumber": 81,
+    "driverCode": "PIA",
+    "stats": {
+      "appearances": {
+        "qualy": 47,
+        "race": 47,
+        "fp1": 24,
+        "fp2": 19,
+        "fp3": 18,
+        "sprintQualy": 6,
+        "sprint": 6
+      },
+      "race": {
+        "positions": {
+          "1": 2,
+          "2": 5,
+          "3": 3,
+          "4": 7,
+          "5": 3,
+          "6": 1,
+          "7": 4,
+          "8": 6,
+          "9": 1,
+          "10": 3,
+          "11": 2,
+          "12": 1,
+          "13": 2,
+          "14": 1,
+          "15": 1,
+          "16": 1,
+          "17": 1,
+          "19": 1,
+          "20": 2
+        },
+        "podiums": {
+          "total": 10,
+          "2023": 2,
+          "2024": 8
+        },
+        "wins": {
+          "total": 2,
+          "2024": 2
+        }
+      },
+      "points": {
+        "total": 382,
+        "2023": 82,
+        "2024": 300
+      },
+      "sprint": {
+        "positions": {
+          "1": 1,
+          "2": 2,
+          "6": 1,
+          "7": 1,
+          "10": 1
+        },
+        "podiums": {
+          "total": 3,
+          "2024": 3
+        },
+        "poles": {
+          "total": 1,
+          "2024": 1
+        },
+        "wins": {
+          "total": 1,
+          "2024": 1
+        }
+      }
+    }
+  },
+  "lawson": {
+    "driverId": "lawson",
+    "driverName": "Liam",
+    "driverSurname": "Lawson",
+    "driverNationality": "New Zealander",
+    "driverBirthdate": "2002-02-11",
+    "driverNumber": 40,
+    "driverCode": "LAW",
+    "stats": {
+      "appearances": {
+        "qualy": 11,
+        "race": 11,
+        "fp1": 6,
+        "sprintQualy": 3,
+        "sprint": 3,
+        "fp2": 3,
+        "fp3": 3
+      },
+      "race": {
+        "positions": {
+          "9": 3,
+          "11": 2,
+          "13": 1,
+          "14": 1,
+          "16": 2,
+          "17": 2
+        }
+      },
+      "points": {
+        "total": 4,
+        "2023": 2,
+        "2024": 2
+      },
+      "sprint": {
+        "positions": {
+          "9": 1,
+          "16": 2
+        }
+      }
+    }
+  },
+  "guanyu": {
+    "driverId": "guanyu",
+    "driverName": "Zhou",
+    "driverSurname": "Guanyu",
+    "driverNationality": "China",
+    "driverBirthdate": "30\/05\/1999",
+    "driverNumber": 24,
+    "driverCode": "ZHO",
+    "stats": {
+      "appearances": {
+        "fp1": 13,
+        "fp2": 10,
+        "fp3": 10,
+        "qualy": 13,
+        "sprintQualy": 3,
+        "sprint": 3
+      },
+      "sprint": {
+        "positions": {
+          "9": 1,
+          "11": 1,
+          "20": 1
+        }
+      },
+      "points": {
+        "total": 0,
+        "2024": 0
+      }
+    }
+  },
+  "magnussen": {
+    "driverId": "magnussen",
+    "driverName": "Kevin",
+    "driverSurname": "Magnussen",
+    "driverNationality": "Denmark",
+    "driverBirthdate": "05\/10\/1992",
+    "driverNumber": 20,
+    "driverCode": "MAG",
+    "stats": {
+      "appearances": {
+        "fp2": 9,
+        "fp3": 10,
+        "qualy": 13,
+        "sprintQualy": 3,
+        "sprint": 3
+      },
+      "sprint": {
+        "positions": {
+          "9": 1,
+          "10": 1,
+          "18": 1
+        }
+      },
+      "points": {
+        "total": 0,
+        "2024": 0
+      }
+    }
+  },
+  "bearman": {
+    "driverId": "bearman",
+    "driverName": "Oliver",
+    "driverSurname": "Bearman",
+    "driverNationality": "Great Britain",
+    "driverBirthdate": "08\/05\/2005",
+    "driverNumber": 38,
+    "driverCode": "BEA",
+    "stats": {
+      "appearances": {
+        "fp3": 2,
+        "qualy": 3,
+        "race": 3,
+        "fp1": 8,
+        "fp2": 2,
+        "sprintQualy": 1,
+        "sprint": 1
+      },
+      "race": {
+        "positions": {
+          "7": 1,
+          "10": 1,
+          "12": 1
+        }
+      },
+      "points": {
+        "total": 7,
+        "2024": 7
+      },
+      "sprint": {
+        "positions": {
+          "14": 1
+        }
+      }
+    }
+  },
+  "iwasa": {
+    "driverId": "iwasa",
+    "driverName": "Ayumu",
+    "driverSurname": "Iwasa",
+    "driverNationality": "Japan",
+    "driverBirthdate": "22\/09\/2001",
+    "driverNumber": 15,
+    "driverCode": "IWA",
+    "stats": {
+      "appearances": {
+        "fp1": 2
+      }
+    }
+  },
+  "doohan": {
+    "driverId": "doohan",
+    "driverName": "Jack",
+    "driverSurname": "Doohan",
+    "driverNationality": "Australia",
+    "driverBirthdate": "20\/01\/2003",
+    "driverNumber": 14,
+    "driverCode": "DOO",
+    "stats": {
+      "appearances": {
+        "fp1": 4,
+        "fp2": 1,
+        "fp3": 1,
+        "qualy": 1,
+        "race": 1
+      },
+      "race": {
+        "positions": {
+          "15": 1
+        }
+      },
+      "points": {
+        "total": 0,
+        "2024": 0
+      }
+    }
+  },
+  "colapinto": {
+    "driverId": "colapinto",
+    "driverName": "Franco",
+    "driverSurname": "Colapinto",
+    "driverNationality": "Argentine",
+    "driverBirthdate": "27\/05\/2003",
+    "driverNumber": 12,
+    "driverCode": "COL",
+    "stats": {
+      "appearances": {
+        "fp1": 11,
+        "fp2": 6,
+        "fp3": 6,
+        "qualy": 9,
+        "race": 9,
+        "sprintQualy": 3,
+        "sprint": 3
+      },
+      "race": {
+        "positions": {
+          "8": 1,
+          "10": 1,
+          "11": 1,
+          "12": 2,
+          "14": 1,
+          "NC": 3
+        }
+      },
+      "points": {
+        "total": 5,
+        "2024": 5
+      },
+      "sprint": {
+        "positions": {
+          "12": 2,
+          "18": 1
+        }
+      }
+    }
+  },
+  "hadjar": {
+    "driverId": "hadjar",
+    "driverName": "Isack",
+    "driverSurname": "Hadjar",
+    "driverNationality": "France",
+    "driverBirthdate": "28\/02\/2004",
+    "driverNumber": 20,
+    "driverCode": "HAD",
+    "stats": {
+      "appearances": {
+        "fp1": 3
+      }
+    }
+  },
+  "shwartzman": {
+    "driverId": "shwartzman",
+    "driverName": "Robert",
+    "driverSurname": "Shwartzman",
+    "driverNationality": "Israel",
+    "driverBirthdate": "1999-09-16",
+    "driverNumber": 83,
+    "driverCode": "SHW",
+    "stats": {
+      "appearances": {
+        "fp1": 2
+      }
+    }
+  },
+  "antonelli": {
+    "driverId": "antonelli",
+    "driverName": "Andrea",
+    "driverSurname": "Kimi Antonelli",
+    "driverNationality": "Italian",
+    "driverBirthdate": "2006-08-25",
+    "driverNumber": 12,
+    "driverCode": "ANT",
+    "stats": {
+      "appearances": {
+        "fp1": 2
+      }
+    }
+  },
+  "o'ward": {
+    "driverId": "o'ward",
+    "driverName": "Pato",
+    "driverSurname": "O'ward",
+    "driverNationality": "Mexican",
+    "driverBirthdate": "1999-05-06",
+    "driverNumber": null,
+    "driverCode": "OWA",
+    "stats": {
+      "appearances": {
+        "fp1": 1
+      }
+    }
+  },
+  "drugovich": {
+    "driverId": "drugovich",
+    "driverName": "Felipe",
+    "driverSurname": "Drugovich",
+    "driverNationality": "Brazil",
+    "driverBirthdate": "2000-05-23",
+    "driverNumber": null,
+    "driverCode": "DRU",
+    "stats": {
+      "appearances": {
+        "fp1": 2
+      }
+    }
+  },
+  "hirakawa": {
+    "driverId": "hirakawa",
+    "driverName": "Ryo",
+    "driverSurname": "Hirakawa",
+    "driverNationality": "Japan",
+    "driverBirthdate": "07\/03\/1994",
+    "driverNumber": null,
+    "driverCode": "HIR",
+    "stats": {
+      "appearances": {
+        "fp1": 1
+      }
+    }
+  },
+  "browning": {
+    "driverId": "browning",
+    "driverName": "Luke",
+    "driverSurname": "Browning",
+    "driverNationality": "Great Britain",
+    "driverBirthdate": "31\/01\/2002",
+    "driverNumber": null,
+    "driverCode": "BRO",
+    "stats": {
+      "appearances": {
+        "fp1": 1
+      }
+    }
+  }
+}
