@@ -6,6 +6,10 @@ $standings = curl_get('https://f1connectapi.vercel.app/api/current/drivers-champ
 $nextRace = curl_get('https://f1connectapi.vercel.app/api/current/next');
 
 $lastRace = curl_get('https://f1connectapi.vercel.app/api/current/last/race')['races'];
+
+if(isset($nextRace['message']) && $nextRace['message'] == 'No race found for this round. Try with other one.') {
+    $nextRace = null;
+}
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -34,6 +38,7 @@ $lastRace = curl_get('https://f1connectapi.vercel.app/api/current/last/race')['r
 <div class="welcomeBanner">
     <h1>Formula 1 Database by <span style="color: red">Didoub74</span></h1>
 </div>
+<?php if($nextRace != null) { ?>
 <div class="nextRace">
     <h1 class="title">Next session</h1>
     <?php
@@ -54,6 +59,7 @@ $lastRace = curl_get('https://f1connectapi.vercel.app/api/current/last/race')['r
         <span class="date"><?php echo $date . " at " . $time . " UTC"; ?></span>
     </div>
 </div>
+<?php } ?>
 <div class="columns">
     <div class="container">
         <div class="standing">
@@ -165,7 +171,7 @@ $lastRace = curl_get('https://f1connectapi.vercel.app/api/current/last/race')['r
                     if(++$i > 10) {
                         break;
                     }
-                    $countryCode = country_to_code($driver['driver']['nationality']);
+                    $countryCode = country_to_code($driver['driver']['birthday']);
 
                     ?>
                     <tr class="">
@@ -176,8 +182,8 @@ $lastRace = curl_get('https://f1connectapi.vercel.app/api/current/last/race')['r
                             <span class="fi fi-<?= $countryCode ?>"></span>
                         </td>
                         <td>
-                            <span class="driver-name"><?php echo $driver['driver']['name'] ?></span>
-                            <span class="driver-surname"><?php echo $driver['driver']['surname'] ?></span>
+                            <span class="driver-name"><?php echo $driver['driver']['surname'] ?></span>
+                            <span class="driver-surname"><?php echo $driver['driver']['nationality'] ?></span>
                         </td>
                         <td class="lastRaceTime">
                             <span><?php echo $driver['time']; ?></span>

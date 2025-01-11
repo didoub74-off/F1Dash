@@ -1,0 +1,52 @@
+[
+  {
+    "id": "pretest_2024",
+    "practice_sessions": [
+      {
+        "id": "pretest_2024_day_1",
+        "url": "https://livetiming.formula1.com/static/2024/2024-02-23_Pre-Season_Testing/2024-02-21_Practice_1/TimingData.jsonStream"
+      },
+      {
+        "id": "pretest_2024_day_2",
+        "url": "https://livetiming.formula1.com/static/2024/2024-02-23_Pre-Season_Testing/2024-02-22_Practice_2/TimingData.jsonStream"
+      },
+      {
+        "id": "pretest_2024_day_3",
+        "url": "https://livetiming.formula1.com/static/2024/2024-02-23_Pre-Season_Testing/2024-02-23_Practice_3/TimingData.jsonStream"
+      }
+    ],
+    "qualifying_sessions": [],
+    "race_sessions": []
+  },
+  {
+    "id": "bahrein_2024",
+    "practice_sessions": [
+      {
+        "id": "bahrein_2024_fp1",
+        "url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_1/TimingData.jsonStream"
+      },
+      {
+        "id": "bahrein_2024_fp2",
+        "url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-02-29_Practice_2/TimingData.jsonStream"
+      },
+      {
+        "id": "bahrein_2024_fp3",
+        "url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-03-01_Practice_3/TimingData.jsonStream"
+      }
+    ],
+    "qualifying_sessions": [
+      {
+        "id": "bahrein_2024",
+        "url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-03-01_Qualifying/TimingData.jsonStream"
+      }
+    ],
+    "race_sessions": [
+      {
+        "id": "bahrein_2024_race",
+        "url": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-03-02_Race/TimingData.jsonStream",
+        "final_position": "https://livetiming.formula1.com/static/2024/2024-03-02_Bahrain_Grand_Prix/2024-03-02_Race/DriverRaceInfo.json"
+      }
+    ]
+  }
+]
+
