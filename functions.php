@@ -12,18 +12,28 @@ function country_to_code($countryName): string
     return strtolower($country[$countryName]);
 }
 
-function curl_get($url): array
-{
+function curl_get($url) {
     $ch = curl_init();
     curl_setopt($ch, CURLOPT_URL, $url);
     curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_FOLLOWLOCATION, true);
+
     $output = curl_exec($ch);
+    $http_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    if ($http_code !== 200) {
+        die("HTTP Error: $http_code");
+    }
+
+    if ($output === false) {
+        die("cURL Error: " . curl_error($ch)); // Display the error
+    }
 
     $data = json_decode($output, true);
     curl_close($ch);
 
     return $data;
 }
+
 
 function color_team($teamId): string
 {

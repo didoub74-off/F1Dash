@@ -1,4 +1,7 @@
 <?php
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+
 require 'functions.php';
 
 $standings = curl_get('https://f1connectapi.vercel.app/api/current/drivers-championship');
@@ -30,9 +33,6 @@ if(isset($nextRace['message']) && $nextRace['message'] == 'No race found for thi
         <h4 class="pages"><a href="index.php" class="currentPage pages">Home</a></h4>
         <h4 class="pages"><a href="seasons.php" class="pages">Seasons</a></h4>
         <h4 class="pages"><a href="standings.php" class="pages">Standings</a></h4>
-        <h4 class="pages"><a href="races.php" class="pages">Races</a></h4>
-        <h4 class="pages"><a href="drivers.php" class="pages">Drivers</a></h4>
-        <h4 class="pages"><a href="teams.php" class="pages">Teams</a></h4>
     </div>
 </div>
 <div class="welcomeBanner">
@@ -171,7 +171,7 @@ if(isset($nextRace['message']) && $nextRace['message'] == 'No race found for thi
                     if(++$i > 10) {
                         break;
                     }
-                    $countryCode = country_to_code($driver['driver']['birthday']);
+                    $countryCode = country_to_code($driver['driver']['nationality']);
 
                     ?>
                     <tr class="">

@@ -22,9 +22,6 @@ rsort($keys);
         <h4 class="pages"><a href="index.php" class="pages">Home</a></h4>
         <h4 class="pages"><a href="seasons.php" class="currentPage pages">Seasons</a></h4>
         <h4 class="pages"><a href="standings.php" class="pages">Standings</a></h4>
-        <h4 class="pages"><a href="races.php" class="pages">Races</a></h4>
-        <h4 class="pages"><a href="drivers.php" class="pages">Drivers</a></h4>
-        <h4 class="pages"><a href="teams.php" class="pages">Teams</a></h4>
     </div>
 </div>
 <div class="welcomeBanner">
